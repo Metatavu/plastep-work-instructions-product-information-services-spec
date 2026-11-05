@@ -1,1 +1,1 @@
-# plastep-product-information-services-spec
+# plastep-work-instructions-product-information-services-spec
